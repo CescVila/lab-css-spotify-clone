@@ -15,8 +15,6 @@ body{
     display: flex;
     flex-direction: column;
     padding: 3rem;
-
-
 }
 .sect1{
     display: flex;
@@ -27,11 +25,25 @@ body{
     font-size: medium;
 }
 
+.whatSpoty{
+    display: flex;
+    flex-direction: row;
+}
+
 .logo{
     height: 30px;
-
-  
 }
+.sect2{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+.speaker{
+    text-align: center;
+    width:20%;
+
+}
+
 
 
 Colors:
