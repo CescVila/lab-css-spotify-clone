@@ -10,7 +10,7 @@ body{
     width: 100%;
     background-size: cover;
     background-position: center center;
-    color:white;
+    color: #FFF;
     text-align: center;
     display: flex;
     flex-direction: column;
@@ -21,7 +21,7 @@ body{
     position: fixed;
     background-color: white;
     width: 100%;
-    justify-content: space-around;
+    justify-content: space-between
     font-size: medium;
 }
 
@@ -35,22 +35,44 @@ body{
 }
 .sect2{
     text-align: center;
+    justify-content: space-between;
     display: flex;
     flex-direction: column;
+    
 }
+.whatSpoty{
+    justify-content: space-between;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    
+}
+    
 .speaker{
     text-align: center;
     width:20%;
+    
+}
+#ispeaker{
+    text-align: center;
+    width: 100%;
 }
 .hd{
     text-align: center;
     width:20%;
 }
+#iquality{
+    text-align: center;
+    width: 100%;
+}
 .phone{
     text-align: center;
     width: 20%;
 }
-
+#idivices{
+    text-align: center;
+    width: 100%;
+}
 
 Colors:
 
