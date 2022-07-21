@@ -1,4 +1,39 @@
-/*
+body{
+    font-size: 25px;
+    margin: 0;
+}
+
+.cap{
+    font-size: large;
+    background-image: url(/images/landing.jpg);
+    height: 1000px;
+    width: 100%;
+    background-size: cover;
+    background-position: center center;
+    color:white;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    padding: 3rem;
+
+
+}
+.sect1{
+    display: flex;
+    position: fixed;
+    background-color: white;
+    width: 100%;
+    justify-content: space-around;
+    font-size: medium;
+}
+
+.logo{
+    height: 30px;
+
+  
+}
+
+
 Colors:
 
 Text: 1A1A1A
