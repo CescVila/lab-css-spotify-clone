@@ -41,9 +41,15 @@ body{
 .speaker{
     text-align: center;
     width:20%;
-
 }
-
+.hd{
+    text-align: center;
+    width:20%;
+}
+.phone{
+    text-align: center;
+    width: 20%;
+}
 
 
 Colors:
